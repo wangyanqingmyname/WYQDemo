@@ -1,4 +1,5 @@
 # WYQDemo
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/wangyanqingmyname/WYQDemo.svg?style=flat)](https://travis-ci.org/wangyanqingmyname/WYQDemo)
 [![Version](https://img.shields.io/cocoapods/v/WYQDemo.svg?style=flat)](http://cocoapods.org/pods/WYQDemo)
@@ -27,3 +28,6 @@ wangyanqingmyname, 923369580@qq.com
 ## License
 
 WYQDemo is available under the MIT license. See the LICENSE file for more info.
+=======
+Swift - 手机号码输入框的实现（手机号验证、格式化显示）
+>>>>>>> 1e03de7fddfe1ebde960b38a1d134902dc72a780
