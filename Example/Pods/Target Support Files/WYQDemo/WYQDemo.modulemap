@@ -1,0 +1,6 @@
+framework module WYQDemo {
+  umbrella header "WYQDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
